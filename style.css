@@ -1,0 +1,23 @@
+input, select {
+  display:block;
+  width:100%;
+  max-width: 100%;
+  margin: 10px 0;
+  line-height:40px;
+}
+#radiobox {
+
+}
+input[type=radio],input[type=checkbox] {
+  display:inline-block;
+  width:initial;
+  margin: 10px;
+}
+input[type=submit] {
+  display:inline-block;
+  width:initial;
+}
+textarea {
+  margin: 20px 0 0;
+  width: 100%;  
+}
