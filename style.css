@@ -5,9 +5,6 @@ input, select {
   margin: 10px 0;
   line-height:40px;
 }
-#radiobox {
-
-}
 input[type=radio],input[type=checkbox] {
   display:inline-block;
   width:initial;

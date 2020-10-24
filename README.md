@@ -1,3 +1,5 @@
 # Responsive Web Design Projects - Build a Survey Form
 
-Hosted on [Github Pages] (https://kfairris.github.io/freecodecamp-form/)
+Project from [FreeCodeCamp.org](https://www.freecodecamp.org)
+
+Hosted on [Github Pages](https://kfairris.github.io/freecodecamp-form/)
